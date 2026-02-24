@@ -241,7 +241,7 @@ A hook for fine-grained tracking control.
 
 ## 🤝 Contributing
 
-We welcome community contributions! Please read our [Contributing Guidelines](CONTRIBUTING.md) to get started.
+We welcome community contributions! Please read our [Contributing Guidelines](https://github.com/santhoshkumar7300/react-dev-insight/blob/main/CONTRIBUTING.md) to get started.
 
 1.  Fork the repository.
 2.  Create a feature branch (`git checkout -b feature/amazing-feature`).
