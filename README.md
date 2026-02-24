@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/santhoshkumar7300/react-dev-insight/main/assets/main-demo.gif" alt="React Dev Overlay Demo" width="100%" />
+  <img src="https://raw.githubusercontent.com/santhoshkumar7300/react-dev-insight/main/assets/main-demo.gif" alt="React Dev Insight Demo" width="100%" />
   
   <br/>
   
-  <h1>✨ React Dev Overlay</h1>
+  <h1>✨ React Dev Insight</h1>
   
   <p>
     <strong>A lightning-fast, zero-overhead developer experience plugin for React.</strong>
@@ -27,9 +27,9 @@
 
 <br/>
 
-## 🌟 Why React Dev Overlay?
+## 🌟 Why React Dev Insight?
 
-React performance debugging usually means reading through console logs or clicking through complex flame graphs. We built **React Dev Overlay** to bring the insights directly to your UI.
+React performance debugging usually means reading through console logs or clicking through complex flame graphs. We built **React Dev Insight** to bring the insights directly to your UI.
 
 It runs passively while you build, instantly flagging anomalies, tracking render counts, and drawing the exact physical prop-drilling paths right on your screen.
 
@@ -185,11 +185,11 @@ Debugging tools shouldn't distort the very performance benchmarks they are tryin
 
 ### vs. `why-did-you-render`
 
-`why-did-you-render` is fantastic, but it forces you to dig through terminal logs to understand what happened. **React Dev Overlay is a visual-first tool.** It brings the insights directly to your UI, making it instantly obvious which parts of your screen are thrashing.
+`why-did-you-render` is fantastic, but it forces you to dig through terminal logs to understand what happened. **React Dev Insight is a visual-first tool.** It brings the insights directly to your UI, making it instantly obvious which parts of your screen are thrashing.
 
 ### vs. React DevTools Profiler
 
-The official Profiler is unmatched for deep-dive microscopic analysis. However, it requires you to actively record, click through flame graphs, and parse milliseconds. **React Dev Overlay is passive and ambient.** Leave it running while you build, and it intuitively flags anomalies in real-time.
+The official Profiler is unmatched for deep-dive microscopic analysis. However, it requires you to actively record, click through flame graphs, and parse milliseconds. **React Dev Insight is passive and ambient.** Leave it running while you build, and it intuitively flags anomalies in real-time.
 
 <br/>
 
