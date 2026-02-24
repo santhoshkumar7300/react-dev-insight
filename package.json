@@ -30,13 +30,24 @@
     "tsup": "^8.0.0",
     "typescript": "^5.0.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santhoshkumar7300/react-dev-insight.git"
+  },
+  "author": "Santhoshkumar V <santhoshbenuu@gmail.com> (https://github.com/santhoshkumar7300)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/santhoshkumar7300/react-dev-insight/issues"
+  },
+  "homepage": "https://github.com/santhoshkumar7300",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
   "keywords": [
     "react",
     "dev",
     "overlay",
     "render tracker",
     "tools"
-  ],
-  "author": "Santhoshkumar V",
-  "license": "MIT"
+  ]
 }
