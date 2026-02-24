@@ -52,45 +52,30 @@ It runs passively while you build, instantly flagging anomalies, tracking render
 
 ## 📸 See It In Action
 
----
-
-## 🔥 Re-render Highlights
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/santhoshkumar7300/react-dev-insight/main/assets/rerender.gif" alt="Re-render Highlight" width="900"/>
-</p>
-
-Visually highlights components when they re-render so you instantly see what's happening.
-
----
-
-## 📊 Render Count Badges
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/santhoshkumar7300/react-dev-insight/main/assets/badge.gif" alt="Render Badge" width="900"/>
-</p>
-
-Displays live render counts directly on components.
-
----
-
-## 🧠 Prop Diff Tooltip
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/santhoshkumar7300/react-dev-insight/main/assets/tooltip.gif" alt="Prop Diff Tooltip" width="900"/>
-</p>
-
-Hover to see exactly which props changed between renders.
-
----
-
-## 📈 Mini Performance Dashboard
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/santhoshkumar7300/react-dev-insight/main/assets/dashboard.gif" alt="Mini Dashboard" width="900"/>
-</p>
-
-A lightweight floating dashboard showing render insights in real-time.
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <strong>Re-render Highlights</strong><br/><br/>
+        <img src="https://raw.githubusercontent.com/santhoshkumar7300/react-dev-insight/main/assets/rerender.gif" alt="Re-render Highlight" width="100%"/>
+      </td>
+      <td align="center">
+        <strong>Render Badges</strong><br/><br/>
+        <img src="https://raw.githubusercontent.com/santhoshkumar7300/react-dev-insight/main/assets/badge.gif" alt="Render Badge" width="100%"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <br/><strong>Prop Diff Tooltip</strong><br/><br/>
+        <img src="https://raw.githubusercontent.com/santhoshkumar7300/react-dev-insight/main/assets/tooltip.gif" alt="Prop Diff Tooltip" width="100%"/>
+      </td>
+      <td align="center">
+        <br/><strong>Mini Dashboard</strong><br/><br/>
+        <img src="https://raw.githubusercontent.com/santhoshkumar7300/react-dev-insight/main/assets/dashboard.gif" alt="Mini Dashboard" width="100%"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br/>
 
